@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
-## Norwegian Embassy in Argentina leaves Norwegian with terminal cancer without medical coverage amid pandemic
+# Norwegian Embassy in Argentina leaves Norwegian with terminal cancer without medical coverage amid pandemic
 
 For the first time, a Norwegian ambassador to Argentina, Lars Vaagen, decides not to advance the hospitalization costs for cancer treatments, which are later reimbursed by *Helfo* (Norwegian national health agency), to a Norwegian citizen with terminal cancer.
 
