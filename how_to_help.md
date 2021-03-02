@@ -8,8 +8,8 @@
 
 * Reach out to the Norwegian Ministry of Foreign Affairs, para que haga q la embajada cumpla lo del mail del 24.
 
-* Share [helpArne.org](https://helparne.org), our [Twitter]() and [Instagram]() accounts!
+* Share [helpArne.org](https://helparne.org), our [Twitter](https://twitter.com/helparne) and [Instagram](https://www.instagram.com/helparnenow) accounts!
 
-* Were you also a victim of Ambassador Lars Vaagen? [Contact us](hi@helpArne.org).
+* Were you also a victim of Norwegian Ambassador Lars Vaagen? [Contact us](hi@helpArne.org).
 
 * More to come!
