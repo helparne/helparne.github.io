@@ -6,7 +6,7 @@
 
 * Reach out to the Norwegian Embassy in Argentina's [Twitter](https://www.twitter.com/NoruegaenARG), [Facebook](https://www.facebook.com/EmbajadaDeNoruegaEnArgentina/) and [Instagram](https://www.instagram.com/noruegaargentina) accounts to show the World how this Embassy takes care of Norwegian citizens abroad.
 
-* Reach out to the Norwegian Ministry of Foreign Affairs, para que haga q la embajada cumpla lo del mail del 24.
+* Tell the [Norwegian Ministry of Foreign Affairs](Ine.Eriksen.Soreide@mfa.no) to exercise her authority over the Norwegian Embassy so they comply with their written commitment!
 
 * Share [helpArne.org](https://helparne.org), our [Twitter](https://twitter.com/helparne) and [Instagram](https://www.instagram.com/helparnenow) accounts!
 
