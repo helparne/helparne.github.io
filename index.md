@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
-# Norwegian Embassy in Argentina leaves Norwegian with terminal cancer without medical coverage amid pandemic
+## Norwegian Embassy in Argentina leaves Norwegian with terminal cancer without medical coverage amid pandemic
 
 For the first time, a Norwegian ambassador to Argentina, Lars Vaagen, decides not to advance the hospitalization costs for cancer treatments, which are later reimbursed by *Helfo* (Norwegian national health agency), to a Norwegian citizen with terminal cancer.
 
@@ -43,5 +43,5 @@ Faced with an imminent fatal outcome, if the situation does not change, legal ac
 
 ## In closing 
 
-These events have been emotionally taxing on my family. My father is only one of many Norwegians who are struggling to receive aid from a system that is changing for the worst. If this can happen to my father, it can happen to anyone. As a son, it is my duty to make sure the father who gave me the best chance in life has his chance to spend his last days in peace and comfort. As humans, it is our collective duty to make sure our elders are not suffering in bankruptcy during their final days. That is why I am asking you to join hands with me by signing this petition. You can help my family send a message to Ambassador Lars Vaagen that this gross negligence is not okay!
+These events have been emotionally taxing on my family. My father is only one of many Norwegians who are struggling to receive aid from a system that is changing for the worst. If this can happen to my father, it can happen to anyone. As a son, it is my duty to make sure the father who gave me the best chance in life has his chance to spend his last days in peace and comfort. As humans, it is our collective duty to make sure our elders are not suffering in bankruptcy during their final days. That is why I am asking you to join hands with me by [signing this petition](https://www.change.org/p/norwegian-embassy-in-argentina-return-medical-coverage-to-a-norwegian-citizen-in-argentina). You can help my family send a message to Ambassador Lars Vaagen that this gross negligence is not okay!
 
