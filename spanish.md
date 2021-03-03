@@ -6,7 +6,7 @@ permalink: /es/
 
 # Embajada de Noruega en Argentina deja sin cobertura médica a noruego con cáncer terminal en medio de la pandemia
 
-Por primera vez, un embajador en Argentina, **Lars Vaagen**, decide no adelantar los gastos de internacion de tratamientos de cancer, que luego son reembolsados por *Helfo* (agencia nacional noruega de salud), a un ciudadano noruego con cáncer terminal.
+Por primera vez, un embajador en Argentina, **Lars Vaagen**, decide no adelantar los gastos de internacion de tratamientos de cáncer, que luego son reembolsados por *Helfo* (agencia nacional noruega de salud), a un ciudadano noruego con cáncer terminal.
 
 Esta práctica de adelantar gastos médicos para ciudadanos noruegos miembros del *Folketrygden* (sistema de seguridad social noruego) se venía desarrollando en esa embajada durante más de 30 años.
 
