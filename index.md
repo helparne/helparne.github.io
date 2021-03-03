@@ -14,7 +14,7 @@ This practice of advancing medical expenses for Norwegian citizens who are membe
 My dad, Arne Benjaminsen, is from Øksnes, Norway. He worked as a sailor on Norwegian ships around the world and has been based in Argentina for many years.
 
 <figure>
-    <img src='images/Arne_Working.jpg' alt='missing' align="left" />
+    <img src='images/Arne_Working.jpg' alt='missing' align="left" width="200" height="200" />
     <figcaption>Arne's starting working at 14</figcaption>
 </figure>
 
