@@ -13,6 +13,11 @@ This practice of advancing medical expenses for Norwegian citizens who are membe
 
 My dad, Arne Benjaminsen, is from Øksnes, Norway. He worked as a sailor on Norwegian ships around the world and has been based in Argentina for many years.
 
+<figure>
+    <img src='Arne_Working.jpg' alt='missing' align="left" />
+    <figcaption>Arne's starting working at 14</figcaption>
+</figure>
+
 From the moment he was based in Argentina, as a member of *Folketrygden*, his medical expenses were paid by the Norwegian embassy, and later reimbursed to the embassy by *Helfo*. Members of *Folketrygden* abroad have the right to have their medical expenses covered by *Helfo*. For example, they can go to the doctor or buy a medicine and after that send a form to *Helfo* to request a refund. Since medical expenses can be very costly, sometimes it can be impossible for a person to pay and get a treatment, even if they know that they will eventually get it refunded by *Helfo*. This is true in particular for hospitalizations or cancer treatments, which can be very expensive. Because of this, historically, <a href="https://www.hospitalaleman.org.ar/nuestro-hospital/atencion/coberturas-medicas/" target="_blank" rel="noopener noreferrer">the Norwegian embassy in Argentina had an agreement with a hospital in Buenos Aires, Hospital Alemán</a>. That way, members of *Folketrygden* could get treated there, and the embassy took care of asking *Helfo* for the refund later.
 
 **<a href="https://github.com/helparne/helparne.github.io/raw/master/1_Email_28_August_2020_English.pdf" target="_blank" rel="noopener noreferrer">In August 2020, Norwegian consul in Argentina Mona Budal sent an email expressing that, because of the pandemic, the embassy was working with fewer people and working from home, so they decided to cancel services that the embassy didn't consider essential.</a>**
