@@ -12,10 +12,10 @@ permalink: /how/
 
 * Reach out to <a href="mailto:Lars.Ole.Vaagen@mfa.no?subject=#helpArne!">Ambassador Lars Vaagen</a> and <a href="mailto:Mona.Helen.Budal@mfa.no?subject=#helpArne!">consul Mona Budal</a> to explain them that what they are doing is not OK!
 
-* Reach out to the Norwegian Embassy in Argentina's [Twitter](https://www.twitter.com/NoruegaenARG), [Facebook](https://www.facebook.com/EmbajadaDeNoruegaEnArgentina/) and [Instagram](https://www.instagram.com/noruegaargentina) accounts to show the World how this Embassy takes care of Norwegian citizens abroad.
+* Reach out to the Norwegian Embassy in Argentina's <a href="https://www.twitter.com/NoruegaenARG" target="_blank" rel="noopener noreferrer">Twitter</a>, <a href="https://www.facebook.com/EmbajadaDeNoruegaEnArgentina/" target="_blank" rel="noopener noreferrer">Facebook</a> and <a href="https://www.instagram.com/noruegaargentina" target="_blank" rel="noopener noreferrer">Instagram</a> accounts to show the World how this Embassy takes care of Norwegian citizens abroad.
 
-* Tell the [Norwegian Ministry of Foreign Affairs](Ine.Eriksen.Soreide@mfa.no) to exercise her authority over the Norwegian Embassy so they comply with their written commitment!
+* Tell the <a href="mailto:Ine.Eriksen.Soreide@mfa.no?subject=#helpArne!">Norwegian Ministry of Foreign Affairs</a> to exercise her authority over the Norwegian Embassy so they comply with their written commitment!
 
-* Were you or someone you know also a victim of Norwegian Ambassador Lars Vaagen? [Contact us](hi@helpArne.org). We want to help you too.
+* Were you or someone you know also a victim of Norwegian Ambassador Lars Vaagen? <a href="mailto:hi@helpArne.org?subject=Hi">Contact us</a>. We want to help you too.
 
 * More to come!
