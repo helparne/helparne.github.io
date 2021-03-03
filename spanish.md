@@ -11,7 +11,7 @@ Por primera vez, un embajador en Argentina, **Lars Vaagen**, decide no adelantar
 Esta práctica de adelantar gastos médicos para ciudadanos noruegos miembros del *Folketrygden* (sistema de seguridad social noruego) se venía desarrollando en esa embajada durante más de 30 años.
 
 ## Los hechos
-<img src='images/Arne_Working.jpg' alt='missing' width="273" height="372" align="left" style="padding-right: 10px;"/>
+<img src='images/Arne_Working.jpg' alt='Arne Working at age 14' width="273" height="372" align="left" style="padding-right: 10px;"/>
 
 Mi padre, Arne Benjaminsen, es originario de Øksnes, Noruega. Trabajó como marinero en barcos noruegos alrededor del mundo, y está radicado en Argentina hace varios años.
 Al estar radicado en Argentina y ser miembro del *Folketrygden*, sus gastos médicos eran pagados por la Embajada de Noruega, y luego reintegrados a la Embajada por *Helfo*. Miembros del *Folketrygden* en el exterior tienen derecho a tener sus gastos médicos cubiertos por *Helfo*. Por ejemplo, pueden ir al médico o comprar una medicina, y luego enviar un formulario a *Helfo* pidiendo el reembolso. Como algunos gastos médicos son muy costosos, estos se tornan imposibles de pagar en forma particular aún sabiendo que son reintegrados en su totalidad por *Helfo*, dejando a la deriva a aquellas personas que no cuentan con el dinero para pagarlos. Esta situación se vuelve crítica en casos como hospitalizaciones o tratamientos relacionados al cáncer, donde la atención médica es necesaria con rapidez. Debido a esto, históricamente, <a href="https://www.hospitalaleman.org.ar/nuestro-hospital/atencion/coberturas-medicas/" target="_blank" rel="noopener noreferrer">la embajada noruega en Argentina tenía un acuerdo con un hospital en Buenos Aires, el Hospital Alemán.</a>. De esa manera, miembros del *Folketrygden* podían ser tratados ahí, y luego la embajada se encargaba de gestionar el reintegro ante *Helfo* en su nombre. 
@@ -44,7 +44,7 @@ El Ministerio de Relaciones Exteriores de Noruega, que puede ejercer autoridad s
 
 ## Finalizando
 
-<img src='images/Arne_home.jpg' alt='missing' width="300" height="350" align="right" style="padding-left: 10px;"/>
+<img src='images/Arne_home.jpg' alt='Arne at home' width="300" height="350" align="right" style="padding-left: 10px;"/>
 
 Estos eventos fueron muy desgastantes para mi familia. Mi padre es solo uno de los muchos noruegos que luchan por recibir ayuda de un sistema que está cambiando para peor. Si esto le puede pasar a mi padre, le puede pasar a cualquiera. Como hijo, es mi deber asegurarme de que el padre que me dio las mejores oportunidades, tenga la oportunidad de pasar sus últimos días en paz y comodidad. Como seres humanos, es nuestro deber colectivo asegurarnos de que nuestros mayores no estén sufriendo en bancarrota durante sus últimos días. Por eso les pido que se unan y <a href="https://www.change.org/p/norwegian-embassy-in-argentina-return-medical-coverage-to-a-norwegian-citizen-in-argentina" target="_blank" rel="noopener noreferrer">firmen esta petición</a>. Podés ayudar a mi familia a enviar un mensaje al embajador Lars Vaagen de que su grave negligencia no está bien!
 
