@@ -18,4 +18,6 @@ permalink: /how/
 
 * Were you or someone you know affected by Norwegian Ambassador Lars Vaagen? <a href="mailto:hi@helpArne.org?subject=Hi">Contact us</a>. We want to help you too.
 
+* We are available for interviews via <a href="mailto:hi@helpArne.org?subject=Hi">email</a>, Zoom, Skype, Hangouts, etc.
+
 * More to come!
