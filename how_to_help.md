@@ -16,6 +16,6 @@ permalink: /how/
 
 * Tell the <a href="mailto:Ine.Eriksen.Soreide@mfa.no?subject=#helpArne!">Norwegian Ministry of Foreign Affairs</a> to exercise her authority over the Norwegian Embassy so they comply with their written commitment!
 
-* Were you or someone you know also a victim of Norwegian Ambassador Lars Vaagen? <a href="mailto:hi@helpArne.org?subject=Hi">Contact us</a>. We want to help you too.
+* Were you or someone you know affected by Norwegian Ambassador Lars Vaagen? <a href="mailto:hi@helpArne.org?subject=Hi">Contact us</a>. We want to help you too.
 
 * More to come!
