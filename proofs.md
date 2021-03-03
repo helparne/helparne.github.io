@@ -12,7 +12,7 @@ permalink: /proofs/
 
 * <a href="https://www.hospitalaleman.org.ar/nuestro-hospital/atencion/coberturas-medicas/" target="_blank" rel="noopener noreferrer">Hospital Alemán website where it states that they have an agreement with the Norwegian Embassy.</a>
 
-* <a href="https://raw.githubusercontent.com/helparne/helparne.github.io/master/images/Hospital_Document_January_2021.jpg" target="_blank" rel="noopener noreferrer"> Document from the hospital where it's stated his membership number and coverage by the Norwegian Embassy, dated January 2021.</a> We can provide other kinds of medical documents upon requests.
+* <a href="https://raw.githubusercontent.com/helparne/helparne.github.io/master/images/Hospital_Document_January_2021.jpg" target="_blank" rel="noopener noreferrer"> Document from the hospital where it's stated his membership number and coverage by the Norwegian Embassy, dated January 2021.</a> We can provide other kinds of medical documents upon request.
 
 * <a href="https://github.com/helparne/helparne.github.io/blob/master/1_Email_28_August_2020_English.pdf" target="_blank" rel="noopener noreferrer">Email from the consul on August 28 2020, where it is reported that the Embassy will stop advancing medical payments except hospitalizations.</a>
 
