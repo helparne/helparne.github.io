@@ -10,7 +10,7 @@ permalink: /how/
 
 * Share <a href="https://helpArne.org" target="_blank" rel="noopener noreferrer">helparne.org</a>, our <a href="https://twitter.com/helparne" target="_blank" rel="noopener noreferrer">Twitter</a> and <a href="https://www.instagram.com/helparnenow" target="_blank" rel="noopener noreferrer">Instagram</a> accounts!
 
-* Reach out to <a href="mailto:Lars.Ole.Vaagen@mfa.no">Ambassador Lars Vaagen</a> and <a href="mailto:Mona.Helen.Budal@mfa.no">consul Mona Budal</a> to explain them that what they are doing is not OK!
+* Reach out to <a href="mailto:Lars.Ole.Vaagen@mfa.no?subject=#helpArne!">Ambassador Lars Vaagen</a> and <a href="mailto:Mona.Helen.Budal@mfa.no?subject=#helpArne!">consul Mona Budal</a> to explain them that what they are doing is not OK!
 
 * Reach out to the Norwegian Embassy in Argentina's [Twitter](https://www.twitter.com/NoruegaenARG), [Facebook](https://www.facebook.com/EmbajadaDeNoruegaEnArgentina/) and [Instagram](https://www.instagram.com/noruegaargentina) accounts to show the World how this Embassy takes care of Norwegian citizens abroad.
 
