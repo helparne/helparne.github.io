@@ -8,7 +8,7 @@ permalink: /how/
 
 * <a href="https://www.change.org/p/norwegian-embassy-in-argentina-return-medical-coverage-to-a-norwegian-citizen-in-argentina/" target="_blank" rel="noopener noreferrer">Sign the petition</a> and share it!
 
-* Share <a href="https://helpArne.org" target="_blank" rel="noopener noreferrer">helparne.org</a>, our <a href="https://twitter.com/helparne" target="_blank" rel="noopener noreferrer">Twitter</a> and <a href="https://www.instagram.com/helparnenow" target="_blank" rel="noopener noreferrer">Instagram</a> accounts! Use the hashtag #helpArne!
+* Share <a href="https://helpArne.org" target="_blank" rel="noopener noreferrer">helpArne.org</a>, our <a href="https://twitter.com/helparne" target="_blank" rel="noopener noreferrer">Twitter</a> and <a href="https://www.instagram.com/helparnenow" target="_blank" rel="noopener noreferrer">Instagram</a> accounts! Use the hashtag #helpArne!
 
 * Reach out to <a href="mailto:Lars.Ole.Vaagen@mfa.no?subject=#helpArne!">Ambassador Lars Vaagen</a> and <a href="mailto:Mona.Helen.Budal@mfa.no?subject=#helpArne!">consul Mona Budal</a> to explain them that what they are doing is not OK!
 
