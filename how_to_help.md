@@ -14,7 +14,7 @@ permalink: /how/
 
 * Reach out to the Norwegian Embassy in Argentina's <a href="https://www.twitter.com/NoruegaenARG" target="_blank" rel="noopener noreferrer">Twitter</a>, <a href="https://www.facebook.com/EmbajadaDeNoruegaEnArgentina/" target="_blank" rel="noopener noreferrer">Facebook</a> and <a href="https://www.instagram.com/noruegaargentina" target="_blank" rel="noopener noreferrer">Instagram</a> accounts to show the World how this Embassy takes care of Norwegian citizens abroad.
 
-* Tell the <a href="mailto:Ine.Eriksen.Soreide@mfa.no?subject=#helpArne!">Norwegian Ministry of Foreign Affairs</a> to exercise her authority over the Norwegian Embassy so they comply with their written commitment!
+* Tell the <a href="mailto:Ine.Eriksen.Soreide@mfa.no?subject=#helpArne!">Norwegian Ministry of Foreign Affairs Ine Eriksen Søreide</a> to exercise her authority over the Norwegian Embassy so they comply with their written commitment! Reach out via <a href="https://twitter.com/norwaymfa" target="_blank" rel="noopener noreferrer">Twitter</a>, <a href="https://www.facebook.com/Utenriksdepartementet/" target="_blank" rel="noopener noreferrer">Facebook</a> and <a href="https://www.instagram.com/utenriksdept/" target="_blank" rel="noopener noreferrer">Instagram</a>.
 
 * Were you or someone you know affected by Norwegian Ambassador Lars Vaagen? <a href="mailto:hi@helpArne.org?subject=Hi">Contact us</a>. We want to help you too.
 
