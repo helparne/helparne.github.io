@@ -11,6 +11,7 @@ Por primera vez, un embajador en Argentina, **Lars Vaagen**, decide no adelantar
 Esta práctica de adelantar gastos médicos para ciudadanos noruegos miembros del *Folketrygden* (sistema de seguridad social noruego) se venía desarrollando en esa embajada durante más de 30 años.
 
 ## Los hechos
+
 <img src='images/Arne_Working.jpg' alt='Arne Working at age 14' width="273" height="372" align="left" style="padding-right: 10px;"/>
 
 Mi padre, Arne Benjaminsen, es originario de Øksnes, Noruega. Trabajó como marinero en barcos noruegos alrededor del mundo, y está radicado en Argentina hace varios años.
