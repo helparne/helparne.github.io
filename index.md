@@ -46,8 +46,8 @@ Faced with an imminent fatal outcome, if the situation does not change, legal ac
 
 ## In closing 
 
+<figure>
+    <img src='images/Arne_home.jpg' alt='missing' width="300" height="350" align="right" style="padding-left: 20px;"/>
+</figure>
+
 These events have been emotionally taxing on my family. My father is only one of many Norwegians who are struggling to receive aid from a system that is changing for the worst. If this can happen to my father, it can happen to anyone. As a son, it is my duty to make sure the father who gave me the best chance in life has his chance to spend his last days in peace and comfort. As humans, it is our collective duty to make sure our elders are not suffering in bankruptcy during their final days. That is why I am asking you to join hands with me by <a href="https://www.change.org/p/norwegian-embassy-in-argentina-return-medical-coverage-to-a-norwegian-citizen-in-argentina" target="_blank" rel="noopener noreferrer">signing this petition</a>. You can help my family send a message to Ambassador Lars Vaagen that this gross negligence is not okay!
-
-
-
-
