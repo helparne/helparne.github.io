@@ -6,7 +6,7 @@ permalink: /how/
 
 ## How can I help?
 
-* [Sign the petition](https://www.change.org/p/norwegian-embassy-in-argentina-return-medical-coverage-to-a-norwegian-citizen-in-argentina/) and share it!
+* <a href="https://www.change.org/p/norwegian-embassy-in-argentina-return-medical-coverage-to-a-norwegian-citizen-in-argentina/" target="_blank" rel="noopener noreferrer">Sign the petition</a> and share it!
 
 * Share [helpArne.org](https://helparne.org), our [Twitter](https://twitter.com/helparne) and [Instagram](https://www.instagram.com/helparnenow) accounts!
 
