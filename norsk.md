@@ -7,7 +7,7 @@ permalink: /
 
 # Den norske ambassaden i Argentina etterlater en nordmann med terminal kreft uten medisinsk dekning under pandemien
 
-For første gang noensinne bestemmer den norske ambassadøren i Argentina, **Lars Vaagen**, ikke å forskuttere utgiftene for kreftbehandling på et sykehus. Disse utgiftene vil senere bli refundert av Helfo, til en norsk statsborger som lider av terminal kreft.
+For første gang noensinne bestemmer den norske ambassadøren i Argentina, **Lars Vaagen,** ikke å forskuttere utgiftene for kreftbehandling på et sykehus. Disse utgiftene vil senere bli refundert av Helfo, til en norsk statsborger som lider av terminal kreft.
 
 Denne praksisen med å forskuttere medisinske utgifter for norske borgere som er medlemmer av Folketrygden var normalt praksis i den ambassaden i mer enn 30 år.
 
