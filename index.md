@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /
+permalink: /en
 ---
 
 # Norwegian Embassy in Argentina leaves Norwegian with terminal cancer without medical coverage amid pandemic
