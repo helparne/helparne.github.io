@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Español
-permalink: /es/
+permalink: /es
 ---
 
 # Embajada de Noruega en Argentina deja sin cobertura médica a noruego con cáncer terminal en medio de la pandemia
