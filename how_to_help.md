@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How can I help?
-permalink: /how/
+permalink: /how
 ---
 
 ## How can I help?
